@@ -8,7 +8,7 @@ global.anti_delete = false
 
 // setting
 global.ownername ="HaruIchiro"
-global.ownernumber = "62831338850152"
+global.ownernumber = "6283133850152"
 global.botname = "Haruta-Bot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
